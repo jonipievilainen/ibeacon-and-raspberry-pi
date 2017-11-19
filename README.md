@@ -4,6 +4,7 @@
 npm install bleacon
 npm i -g npm
 npm install --save node-cron
+npm install -g forever
 
 2. Set uuid, major, minor variables
 
